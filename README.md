@@ -68,5 +68,3 @@ Run the server:
 Start the backend server:
 python app.py
 
-Open your browser and go to:
-http://localhost:5000
